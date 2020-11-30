@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.14251c93.chunk.css",
+    "main.js": "./static/js/main.3292ff5e.chunk.js",
+    "main.js.map": "./static/js/main.3292ff5e.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.7144b152.js",
+    "runtime~main.js.map": "./static/js/runtime~main.7144b152.js.map",
+    "static/js/2.8d28bc33.chunk.js": "./static/js/2.8d28bc33.chunk.js",
+    "static/js/2.8d28bc33.chunk.js.map": "./static/js/2.8d28bc33.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e1f816edac37b1513132dca4e98d256a.js": "./precache-manifest.e1f816edac37b1513132dca4e98d256a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.14251c93.chunk.css.map": "./static/css/main.14251c93.chunk.css.map",
+    "static/media/App.css": "./static/media/placeholder-audio-big.effcae22.png"
+  }
+}
